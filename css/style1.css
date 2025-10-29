@@ -40,10 +40,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
 }
-.grid-3-2min{
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-}
+
 .premier{
     grid-column: 1/3;
 }
