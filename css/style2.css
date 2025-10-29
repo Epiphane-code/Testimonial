@@ -131,7 +131,7 @@ header p{
     .premier{
     grid-column: auto;
 } 
-.between > :nth-child(1) > :nth-child(1){
+.flex-1 > :nth-child(1) > :nth-child(1){
     border: none;
     border-radius: none;
 }
@@ -143,5 +143,14 @@ h1{
 }
 header p{
     font-size: 0.9rem;
+}
+.gap{
+    gap: 20px;
+}
+grade{
+    font-size: 1rem;   
+}
+.flex-1 > :nth-child(1){
+    gap: 20px;
 }
 }
